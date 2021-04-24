@@ -6,7 +6,20 @@
 
 ## 文件目錄
 
-* [社團提問範本](question-guide.md)
+### 正式版規
+
+* [社團板規](rules/constitution.md)
+* [社團發文基本原則](rules/communication-principles.md)
+* [社團開放留言投稿廣告公告](rules/commercial-declaration.md)
+* [社團交流私訊原則](rules/private-message-principles.md)
+
+### 提案建議
+
+* [社團提問範本](proposal/question-guide.md)
+
+### 參考文件
+
+* [5 大基本原則 \(The Five Good Faith Rules\)](refs/five-good-faith.md)
 
 ## 如何參與
 
