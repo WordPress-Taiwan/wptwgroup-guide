@@ -12,6 +12,7 @@
 * [社團發文基本原則](rules/communication-principles.md)
 * [社團開放留言投稿廣告公告](rules/commercial-declaration.md)
 * [社團交流私訊原則](rules/private-message-principles.md)
+* [社團張貼活動訊息規則](rules/meetup-rules.md)
 
 ### 提案建議
 
