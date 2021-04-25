@@ -38,4 +38,4 @@
 如有任何疑問，請至此處[連結](https://www.facebook.com/groups/wordpresstw/permalink/2567448293282595/)討論串討論，切勿把自己的廣告文充當發問來偷渡，以免觸犯社團規則。違反規則將執行處置不另行通知。歡迎截圖與描述處置失當之證明與發文留言詢問管理員。
 
 * 提案人：[阿竣](https://github.com/nczz)
-* 提案日期：2019-05-11
+* 提案日期：[2019-05-11](https://www.facebook.com/groups/wordpresstw/permalink/2567448816615876/)

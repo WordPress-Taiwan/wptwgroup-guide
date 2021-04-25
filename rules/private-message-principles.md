@@ -32,4 +32,4 @@
 之後看到我就給你封鎖！
 
 * 提案人：[阿竣](https://github.com/nczz)
-* 提案日期：2020-01-18
+* 提案日期：[2020-01-18](https://www.facebook.com/groups/wordpresstw/permalink/3082167075144045/)

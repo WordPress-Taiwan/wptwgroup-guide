@@ -30,4 +30,4 @@ WordPress 社群歡迎各類型的小聚活動 (交流、揪團)，但是如果�
 [WordPress 商標使用原則](https://wordpressfoundation.org/trademark-policy/)
 
 * 提案人: [Eric](https://github.com/huanyichuang/)
-* 提案日期: 2021-03-27
+* 提案日期: [2021-03-27](https://www.facebook.com/groups/wordpresstw/permalink/4300201643340576/)

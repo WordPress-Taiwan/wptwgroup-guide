@@ -51,4 +51,4 @@
 1. 如果基於契約或保密協議，無法提供真實網站網址，建議試著透過沙盒工具 (如 wpsandbox.io) 或 Codepen 重現問題。在處理樣式問題時，這種方式可以讓回答者更精確知道你的問題在哪。
 
 * 提案人: [Eric](https://github.com/huanyichuang/)
-* 提案日期: 2021-04-20
+* 提案日期: [2021-04-20](https://www.facebook.com/groups/wordpresstw/permalink/4375312992496107/)
